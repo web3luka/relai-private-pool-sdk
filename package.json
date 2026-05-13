@@ -1,6 +1,6 @@
 {
   "name": "@relai-fi/private-pool-sdk",
-  "version": "0.0.1-devnet",
+  "version": "0.0.2-devnet",
   "description": "Client SDK for the RelAI Private Pool V2 — Sapling-style ZK USDC transfers on Solana.",
   "license": "MIT",
   "type": "module",
