@@ -1,0 +1,55 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build output
+dist/
+build/
+.cache/
+.temp/
+out/
+
+# Logs
+logs/
+*.log
+*.out
+*.err
+*.pid
+
+# Tests / Coverage
+coverage/
+*.lcov
+.nyc_output/
+test-results/
+junit.xml
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Secrets
+*.pem
+*.key
+*.crt
+*.p12
+
+# Temp
+tmp/
+temp/
+*.bak
+*.tmp
